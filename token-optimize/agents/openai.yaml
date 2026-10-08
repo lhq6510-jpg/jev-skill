@@ -1,0 +1,6 @@
+interface:
+  display_name: "Token optimize"
+  short_description: "Conservative task optimization with honest net-cost accounting"
+  default_prompt: "Use $token-optimize to optimize only when worthwhile, then complete my task."
+policy:
+  allow_implicit_invocation: false
