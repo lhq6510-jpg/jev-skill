@@ -4,7 +4,7 @@
 
 **仓库名称为 `jev-skill`，当前发布内容是独立的 `token-optimize`，不是官方 Jev，不调用 TypeSafe API，也不需要新的 API Key、模型或服务器。**
 
-## 给朋友的安装步骤
+## 安装步骤
 
 1. 点击 **Code → Download ZIP**，解压。
 2. 找到仓库内的 **`token-optimize/` 子目录**，将整个目录安装到你的 Agent Skill 目录。
